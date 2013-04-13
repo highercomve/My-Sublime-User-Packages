@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<%= ${1} %>]]></content>
+    <tabTrigger>echo</tabTrigger>
+    <scope>text.html.ruby, text.haml, html.erb</scope>
+    <description>Erb echo</description>
+</snippet>

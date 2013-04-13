@@ -1,0 +1,23 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"AutoFileName",
+		"ColorPicker",
+		"Emmet",
+		"ERB Insert and Toggle Commands",
+		"ERB Snippets",
+		"Git",
+		"Git Status Files",
+		"Package Control",
+		"Placeholders",
+		"Prefixr",
+		"ruby-slim.tmbundle",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeREPL",
+		"Tag",
+		"Terminal"
+	]
+}
